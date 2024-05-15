@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <div>
       <picture>
-        <source media="(max-width: 768px)" srcSet="bannerMobile.jpg" />
+        <source media="(max-width: 768px)" srcSet="bannerMobile2.jpg" />
         <source media="(min-width: 769px)" srcSet="bannerc.jpg" />
         <img src="bannerc.jpg" alt="" className='w-full' />
       </picture>
