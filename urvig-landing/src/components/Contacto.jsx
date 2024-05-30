@@ -24,7 +24,7 @@ const Contacto = () => {
             <FaRegEnvelope className="mr-3" /> Ventas: <a href="mailto:ventasurvig@gmail.com" className='font-semibold ml-1'> ventasurvig@gmail.com</a>
           </p>
           <p className='text-base md:text-lg p-3 flex items-center'>
-            <FaRegEnvelope className="mr-3" /> Ingeniería: <a href="mailto:ingenieraurvig@gmail.com" className='font-semibold ml-1'> ingenieraurvig@gmail.com</a>
+            <FaRegEnvelope className="mr-3" /> Ingeniería: <a href="mailto:ingenieriaurvig@gmail.com" className='font-semibold ml-1'> ingenieriaurvig@gmail.com</a>
           </p>
             <hr className="md:hidden" />
           </div>
