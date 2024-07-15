@@ -36,10 +36,10 @@ const Contacto = () => {
           <p className='text-base md:text-lg p-3 font-semibold flex items-center'>
             <FaPhoneAlt className="mr-3" /> +54 9 342 455 4410/11/12
           </p>
-          {/* <p className='text-base md:text-lg p-3 font-semibold flex items-center'>
+          <p className='text-base md:text-lg p-3 font-semibold flex items-center'>
             <FaWhatsapp className="mr-3 h-6" />
             <a href="http://wa.link/8b2dtj" target="_blank" rel="noopener noreferrer">+54 9 342 5480961</a>
-          </p> */}
+          </p>
           <hr className="md:hidden" />
           <p className='text-lg md:text-2xl p-3 leading-relaxed font-semibold'>
             Dirección:
